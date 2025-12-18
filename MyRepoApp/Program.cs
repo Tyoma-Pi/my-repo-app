@@ -9,6 +9,8 @@
             int a = 6;
             a += 4;
             Console.WriteLine(a);
+
+            Console.WriteLine("Я был здесь...");
         }
     }
 }
