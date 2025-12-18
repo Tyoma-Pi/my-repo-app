@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\bin\Debug\net8.0\MyRepoApp.exe
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\bin\Debug\net8.0\MyRepoApp.deps.json
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\bin\Debug\net8.0\MyRepoApp.runtimeconfig.json
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\bin\Debug\net8.0\MyRepoApp.dll
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\bin\Debug\net8.0\MyRepoApp.pdb
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\MyRepoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\MyRepoApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\MyRepoApp.AssemblyInfo.cs
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\MyRepoApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\MyRepoApp.dll
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\refint\MyRepoApp.dll
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\MyRepoApp.pdb
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\MyRepoApp.genruntimeconfig.cache
+C:\Users\User\source\repos\MyRepoApp\MyRepoApp\obj\Debug\net8.0\ref\MyRepoApp.dll
